@@ -20,7 +20,6 @@
  *
  */
 #pragma once
-
 #include "macros.h"
 
 #define BOARD_UNKNOWN -1
